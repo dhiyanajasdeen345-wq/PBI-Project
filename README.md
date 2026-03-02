@@ -1,4 +1,4 @@
-POWER BI SALES DATA ANALYSIS PROJECT
+POWER BI SALES DATA ANALYSIS PROJECT   
 This project demonstrates a complete data analytics workflow including data cleaning and visualization using sales data.
 
 ## Phase 1 – Data Cleaning
